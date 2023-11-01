@@ -22,7 +22,7 @@ body {
 
 /* estilos para los botones*/
 .boton {
-    background-color: transparent;
+    background-color: black;
     border: none;
     cursor: pointer;
     transition: transform 0.3s ease;
@@ -42,12 +42,12 @@ body {
     margin: 0 auto;
 }
 .slick-prev, .slick-next {
-    font-size: 24px;
+    font-size: 14px;
     color: white;
     background: black;
     border: none;
     border-radius: 50%;
-    padding: 10px 15px;
+    padding: 15px 15px;
     cursor: pointer;
 }
 .slick-prev { left: -40px; }
